@@ -36,7 +36,12 @@
 
 // Output yang diinginkan => Kamu membeli 51 indomie dan memiliki kembalian sebanyak 1000
 // Write your code here
-let belanja = '';
-let harga;
-let uang;
-let total;
+let belanja = 'indomie';
+let harga = '2000';
+let uang = '105000';
+let total = '102000';
+
+if () {
+
+}
+
